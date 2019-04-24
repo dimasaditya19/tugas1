@@ -27,7 +27,7 @@
                     </div>
                     <div class="card-content">
                         <p class="category">HIJAU</p>
-                        <h3 class="title">SATU</h3>
+                        <h3 class="title">CINTA</h3>
                     </div>
                     <div class="card-footer">
                         <div class="stats">
@@ -43,7 +43,7 @@
                     </div>
                     <div class="card-content">
                         <p class="category">MERAH</p>
-                        <h3 class="title">BRAWI</h3>
+                        <h3 class="title">TI</h3>
                     </div>
                     <div class="card-footer">
                         <div class="stats">
@@ -59,7 +59,7 @@
                     </div>
                     <div class="card-content">
                         <p class="category">BIRU</p>
-                        <h3 class="title">JAYA</h3>
+                        <h3 class="title">VOKASI</h3>
                     </div>
                     <div class="card-footer">
                         <div class="stats">
@@ -356,27 +356,27 @@
                             <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td>Zidane Ramadhan MN.</td>
+                                    <td>Alamsyah.</td>
                                     <td>TI Network</td>
-                                    <td>173140714111036</td>
+                                    <td>173140714111050</td>
                                 </tr>
                                 <tr>
                                     <td>2</td>
-                                    <td>Ilham Bagas Prayuda</td>
+                                    <td>M Dimas Aditya</td>
                                     <td>TI Network</td>
-                                    <td>173140714111046</td>
+                                    <td>173140714111026</td>
                                 </tr>
                                 <tr>
                                     <td>3</td>
-                                    <td>Titus E</td>
+                                    <td>Arif Marzuki</td>
                                     <td>TI Network</td>
-                                    <td>173140714111011</td>
+                                    <td>173140714111070</td>
                                 </tr>
                                 <tr>
                                     <td>4</td>
-                                    <td>Firman</td>
+                                    <td>Arfahmi Aditya I.S</td>
                                     <td>TI Network</td>
-                                    <td>173140714111014</td>
+                                    <td>173140714111068</td>
                                 </tr>
                             </tbody>
                         </table>
