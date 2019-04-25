@@ -342,7 +342,7 @@
             <div class="col-lg-6 col-md-12">
                 <div class="card">
                     <div class="card-header" data-background-color="orange">
-                        <h4 class="title">DAFTAR KELOMPOK</h4>
+                        <h4 class="title">DAFTAR NAMA BEGAL</h4>
                         <p class="category">Universitas Brawijaya</p>
                     </div>
                     <div class="card-content table-responsive">
@@ -356,7 +356,7 @@
                             <tbody>
                                 <tr>
                                     <td>1</td>
-                                    <td>Alamsyah.</td>
+                                    <td>Alamsyah</td>
                                     <td>TI Network</td>
                                     <td>173140714111050</td>
                                 </tr>
